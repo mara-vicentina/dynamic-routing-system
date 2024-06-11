@@ -38,7 +38,7 @@
                     <div class="icon">
                         <font-awesome-icon :icon="['fas', 'dollar-sign']" />
                     </div>
-                    <a href="#" class="small-box-footer">
+                    <a href="/node-list" class="small-box-footer">
                         More info <font-awesome-icon :icon="['fas', 'arrow-circle-right']" />
                     </a>
                 </div>

@@ -20,7 +20,7 @@
             ></BFormInput>
           </BFormGroup>
           
-          <BFormGroup label="Password*" label-for="password" class="mt-3 main-color">
+          <BFormGroup label="Senha*" label-for="password" class="mt-3 main-color">
             <BFormInput
               id="password"
               v-model="password"
